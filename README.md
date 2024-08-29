@@ -1,7 +1,3 @@
-Here’s an updated README in English that includes the directory structure based on the image you provided:
-
----
-
 # focusStateDemo
 
 `focusStateDemo` is a demonstration application built using SwiftUI, focusing on managing input field focus using `FocusState` and `FocusedValue`. This project illustrates how to handle focus in SwiftUI effectively.
