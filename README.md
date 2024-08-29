@@ -68,7 +68,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contribution
 
 Contributions are welcome! Please submit a pull request with any improvements, bug fixes, or additional features you think would enhance this project.
-
----
-
-This README provides a comprehensive overview of the project, including how it is structured, its main features, and how to set it up and run it.
